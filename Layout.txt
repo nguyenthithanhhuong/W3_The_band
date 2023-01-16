@@ -1,0 +1,10 @@
+1. Header
+2. Navigation
+3. Slider
+4. Content
+    + About
+    + Tour
+    + Contact
+    + Images
+    + Footer
+5. Footer
